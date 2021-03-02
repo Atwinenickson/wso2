@@ -1,0 +1,10 @@
+{
+  "environments": {
+    "dev": {
+      "username": "YWRtaW4=",
+      "password": "YWRtaW4=",
+      "clientId": "V3Z6ZkpOc3Z2U2xZdFllc1JTa3ExWVI3N2lFYQ==",
+      "clientSecret": "WEJGZFhZZHRFWXA4NDFfN25vYVI2cFBucjVNYQ=="
+    }
+  }
+}
