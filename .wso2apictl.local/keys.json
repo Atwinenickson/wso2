@@ -5,6 +5,12 @@
       "password": "YWRtaW4=",
       "clientId": "V3Z6ZkpOc3Z2U2xZdFllc1JTa3ExWVI3N2lFYQ==",
       "clientSecret": "WEJGZFhZZHRFWXA4NDFfN25vYVI2cFBucjVNYQ=="
+    },
+    "prod": {
+      "username": "YWRtaW4=",
+      "password": "YWRtaW4=",
+      "clientId": "dmVwUWZvUW51U0JOV1JaaU9wMkI4bzFqMnpvYQ==",
+      "clientSecret": "MER6d3RzQ2YyaXRHY3ZzajlDN29YVDdvZjZjYQ=="
     }
   }
 }
